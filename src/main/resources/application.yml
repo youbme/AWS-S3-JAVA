@@ -1,0 +1,15 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAZQA4MZ7IU3YAWSQW
+      secret-key: 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
+    region:
+      static: us-east-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: test-bucket-sclera
+
+
